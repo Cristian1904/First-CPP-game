@@ -1,0 +1,40 @@
+﻿  win32_platform.cpp
+D:\Github Repositories\FirstCppGame\renderer.cpp(55,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+D:\Github Repositories\FirstCppGame\renderer.cpp(56,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+D:\Github Repositories\FirstCppGame\renderer.cpp(57,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+D:\Github Repositories\FirstCppGame\renderer.cpp(58,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+D:\Github Repositories\FirstCppGame\renderer.cpp(69,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+D:\Github Repositories\FirstCppGame\renderer.cpp(69,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+D:\Github Repositories\FirstCppGame\renderer.cpp(69,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+D:\Github Repositories\FirstCppGame\renderer.cpp(69,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+D:\Github Repositories\FirstCppGame\physics.cpp(12,25): warning C4305: '*=': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+D:\Github Repositories\FirstCppGame\game.cpp(150,44): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+D:\Github Repositories\FirstCppGame\game.cpp(150,38): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+D:\Github Repositories\FirstCppGame\game.cpp(151,38): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+D:\Github Repositories\FirstCppGame\win32_platform.cpp(77,5): warning C4007: 'WinMain': must be '__stdcall'
+D:\Github Repositories\FirstCppGame\win32_platform.cpp(99,26): warning C4244: '=': conversion from 'LONGLONG' to 'float', possible loss of data
+  FirstCppGame.vcxproj -> D:\Github Repositories\FirstCppGame\Debug\FirstCppGame.exe
