@@ -1,38 +1,38 @@
 ﻿  win32_platform.cpp
-D:\Github Repositories\FirstCppGame\renderer.cpp(55,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Github Repositories\First-CPP-game\renderer.cpp(55,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
   (compiling source file 'win32_platform.cpp')
   
-D:\Github Repositories\FirstCppGame\renderer.cpp(56,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Github Repositories\First-CPP-game\renderer.cpp(56,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
   (compiling source file 'win32_platform.cpp')
   
-D:\Github Repositories\FirstCppGame\renderer.cpp(57,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Github Repositories\First-CPP-game\renderer.cpp(57,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
   (compiling source file 'win32_platform.cpp')
   
-D:\Github Repositories\FirstCppGame\renderer.cpp(58,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Github Repositories\First-CPP-game\renderer.cpp(58,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
   (compiling source file 'win32_platform.cpp')
   
-D:\Github Repositories\FirstCppGame\renderer.cpp(69,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Github Repositories\First-CPP-game\renderer.cpp(69,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
   (compiling source file 'win32_platform.cpp')
   
-D:\Github Repositories\FirstCppGame\renderer.cpp(69,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Github Repositories\First-CPP-game\renderer.cpp(69,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
   (compiling source file 'win32_platform.cpp')
   
-D:\Github Repositories\FirstCppGame\renderer.cpp(69,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Github Repositories\First-CPP-game\renderer.cpp(69,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
   (compiling source file 'win32_platform.cpp')
   
-D:\Github Repositories\FirstCppGame\renderer.cpp(69,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Github Repositories\First-CPP-game\renderer.cpp(69,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
   (compiling source file 'win32_platform.cpp')
   
-D:\Github Repositories\FirstCppGame\game.cpp(231,44): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Github Repositories\First-CPP-game\game.cpp(231,44): warning C4305: 'argument': truncation from 'double' to 'float'
   (compiling source file 'win32_platform.cpp')
   
-D:\Github Repositories\FirstCppGame\game.cpp(231,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Github Repositories\First-CPP-game\game.cpp(231,38): warning C4305: 'argument': truncation from 'double' to 'float'
   (compiling source file 'win32_platform.cpp')
   
-D:\Github Repositories\FirstCppGame\game.cpp(232,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Github Repositories\First-CPP-game\game.cpp(232,38): warning C4305: 'argument': truncation from 'double' to 'float'
   (compiling source file 'win32_platform.cpp')
   
-D:\Github Repositories\FirstCppGame\win32_platform.cpp(99,26): warning C4244: '=': conversion from 'LONGLONG' to 'float', possible loss of data
-D:\Github Repositories\FirstCppGame\win32_platform.cpp(122,36): warning C4244: 'initializing': conversion from 'WPARAM' to 'unsigned int', possible loss of data
-D:\Github Repositories\FirstCppGame\physics.cpp(57,1): warning C4715: 'handleBulletCollisions': not all control paths return a value
-  FirstCppGame.vcxproj -> D:\Github Repositories\FirstCppGame\x64\Debug\FirstCppGame.exe
+D:\Github Repositories\First-CPP-game\win32_platform.cpp(99,26): warning C4244: '=': conversion from 'LONGLONG' to 'float', possible loss of data
+D:\Github Repositories\First-CPP-game\win32_platform.cpp(122,36): warning C4244: 'initializing': conversion from 'WPARAM' to 'unsigned int', possible loss of data
+D:\Github Repositories\First-CPP-game\physics.cpp(57,1): warning C4715: 'handleBulletCollisions': not all control paths return a value
+  FirstCppGame.vcxproj -> D:\Github Repositories\First-CPP-game\x64\Debug\FirstCppGame.exe
